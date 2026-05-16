@@ -24,3 +24,10 @@ dist/
 # OS
 .DS_Store
 Thumbs.db
+
+# IDE
+*.swp
+
+# Binary / data artifacts
+*.npy
+*.npz
